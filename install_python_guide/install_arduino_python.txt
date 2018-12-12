@@ -3,7 +3,7 @@ Se evt: http://www.toptechboy.com/using-python-with-arduino-lessons/
 1. Python 2.7:
 Google: "Download Python 2.7"
 www.python.org/download/releases
-- Download og kør
+- Download og kÃ¸r
 
 2. PySerial:
 
@@ -15,11 +15,11 @@ http://vpython.org/contents/download_windows.html
 4. PIP:
 - https://packaging.python.org/tutorials/installing-packages/
 - Gem link "get-pip.py"
-- Kør "get-pip.py"
+- KÃ¸r "get-pip.py"
 - Set Path i "Environmental Variable" "C:\Python" og "C:\Python\Scripts"
 
 5. matplotlib og drawnow:
-Kør i Cmd:
+KÃ¸r i Cmd:
 - pip install matplotlib
 - pip install drawnow
 
