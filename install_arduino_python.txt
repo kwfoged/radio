@@ -1,0 +1,41 @@
+Se evt: http://www.toptechboy.com/using-python-with-arduino-lessons/
+
+1. Python 2.7:
+Google: "Download Python 2.7"
+www.python.org/download/releases
+- Download og kør
+
+2. PySerial:
+
+
+3. VPython:
+http://vpython.org/contents/download_windows.html
+- Download og run "VPython-Win-32-Py2.7-6.11" (32-bit)
+
+4. PIP:
+- https://packaging.python.org/tutorials/installing-packages/
+- Gem link "get-pip.py"
+- Kør "get-pip.py"
+- Set Path i "Environmental Variable" "C:\Python" og "C:\Python\Scripts"
+
+5. matplotlib og drawnow:
+Kør i Cmd:
+- pip install matplotlib
+- pip install drawnow
+
+6. PyQt install:
+- python qt executable installer: https://sourceforge.net/projects/pyqt/files/PyQt4/PyQt-4.10/
+- Download executable and run
+
+7. pandas
+- pip install pandas
+
+8. Notepad++
+- Install Notepad++
+- Goto Plugin Manager
+- Install NppExec
+- Press F6
+- Write:
+NPP_SAVE
+cd $(FULL_CURRENT_PATH)
+C:\Python27\python.exe -u $(FULL_CURRENT_PATH)
